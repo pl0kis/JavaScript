@@ -28,8 +28,8 @@ let m = 100;
 
 max = Math.max(n3,m)
 min = Math.min(n3,m) 
-
-result = Math.round(Math.random()*max + min)
+range = max-min
+result = Math.round(Math.random()*range + min)
 remains = 1 - (result % 2)
 
 result = result - remains
