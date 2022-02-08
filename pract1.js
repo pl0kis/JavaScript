@@ -30,7 +30,10 @@
     // login=='Сотрудник'?console.log('Привет'):login=='Директор'?console.log('Здравствуйте'):login ==''?console.log('Нет логина'):console.log('')
 
     // Задание 4
-
+    // let x = 3
+    // let array = [3,4,5,6,7]
+    // for(let num of array) {
+    // x === num? console.log('Принадлежит'): console.log('Не принадлежит');
 
 
     // Задание 5
