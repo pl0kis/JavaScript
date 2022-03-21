@@ -1,0 +1,15 @@
+#id{
+    text-align: center;
+}
+.input {
+    border-radius: 10px;
+    border-color: yellow;
+}
+.button{
+    border-color:yellow;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.ul{
+    list-style-type: none;
+}
